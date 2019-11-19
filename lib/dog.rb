@@ -10,6 +10,6 @@ lassie=Dog.new
 #lassie
 fido
 snoopy
-lassies
+lassie
 
 
